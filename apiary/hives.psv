@@ -1,0 +1,12 @@
+hive_id|yard|queen_line|colony_size|stores_kg|state|revision
+HB-AMBER|North Yard|Italian|28000|12|active|1
+HB-BRISK|Harbor Yard|Carniolan|34000|25|active|1
+HB-CLOVE|West Yard|Buckfast|22000|10|active|1
+HB-CLOVE|West Yard|Buckfast|22000|10|dormant|2
+HB-DUSKY|Harbor Yard|Caucasian|26000|20|active|1
+HB-ELDER|West Yard|Italian|31000|17|active|1
+HB-FABLE|North Yard|Buckfast|24000|22|active|2
+HB-FABLE|Old Yard|Buckfast|24000|9|active|1
+HB-GRASS|Hill Yard|Carniolan|29000|16|active|1
+HB-BAD|Broken Yard|Italian|01200|12|active|1
+HB-AMBER|Shadow Yard|Italian|28000|8|active|oops
