@@ -1,0 +1,12 @@
+{"inspection_id":"IN-101","hive_id":"HB-AMBER","observed_on":"2088-10-28","temperature_c":6,"mites_per_100":1,"cover":"sound"}
+{"inspection_id":"IN-102","hive_id":"HB-BRISK","observed_on":"2088-10-30","temperature_c":8,"mites_per_100":4,"cover":"sound"}
+{"inspection_id":"IN-103","hive_id":"HB-CLOVE","observed_on":"2088-10-30","temperature_c":2,"mites_per_100":5,"cover":"damaged"}
+{"inspection_id":"IN-104","hive_id":"HB-DUSKY","observed_on":"2088-10-25","temperature_c":3,"mites_per_100":1,"cover":"damaged"}
+{"inspection_id":"IN-105","hive_id":"HB-ELDER","observed_on":"2088-10-31","temperature_c":8,"mites_per_100":3,"cover":"damaged"}
+{"inspection_id":"IN-106","hive_id":"HB-FABLE","observed_on":"2088-10-29","temperature_c":4,"mites_per_100":0,"cover":"sound"}
+{"inspection_id":"IN-107","hive_id":"HB-GRASS","observed_on":"2088-11-01","temperature_c":2,"mites_per_100":6,"cover":"damaged"}
+{"inspection_id":"IN-108","hive_id":"HB-AMBER","observed_on":"2088-10-20","temperature_c":2,"mites_per_100":5,"cover":"damaged"}
+{"inspection_id":"IN-109","hive_id":"HB-BRISK","observed_on":"2088-10-30","temperature_c":8,"mites_per_100":7,"cover":"sound"}
+{"inspection_id":"IN-110","hive_id":"HB-DUSKY","observed_on":"2088-02-30","temperature_c":1,"mites_per_100":8,"cover":"damaged"}
+{"inspection_id":"IN-111","hive_id":"HB-AMBER","observed_on":"2088-10-31","temperature_c":true,"mites_per_100":9,"cover":"sound"}
+not-json
